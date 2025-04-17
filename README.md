@@ -1,0 +1,3 @@
+# Fade In Sections 
+
+Fade In Sections makes your Concrete CMS website more engaging by adding smooth fade-in animations to elements as visitors scroll. Simply add a class to any element, and it will gracefully appear when it comes into view, creating a polished and professional look. Customize the effect with optional settings for opacity, movement, speed, and timing to match your site's style, all with easy-to-use classes and no coding required. Perfect for highlighting key content and delighting your audience with a modern, dynamic experience.

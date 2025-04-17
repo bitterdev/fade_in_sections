@@ -1,0 +1,10 @@
+{
+  "name": "bitter/fade_in_sections",
+  "type": "concrete5-package",
+  "description": "Fade In Sections is a Concrete CMS extension that adds smooth fade-in animations to elements as they appear on the screen.",
+  "autoload": {
+    "psr-4": {
+      "Bitter\\FadeInSections\\": "src/Bitter/FadeInSections"
+    }
+  }
+}
